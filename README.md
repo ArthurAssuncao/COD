@@ -1,7 +1,12 @@
 COD
 ===
 
-Controle de Operações Distribuídas
+Controle de Operações Distribuídas usando criptografia simétrica(AES) e assimétrica(RSA).
+Trabalho desenvolvido para a disciplina de **Sistemas Distribuídos** do 4º período do curso **Tecnologia em Sistemas para Internet** no Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas - Câmpus Barbacena.
+
+###Desenvolvedores
+* Arthur Nascimento Assunção
+* Mateus Ferreira Silva
 
 Cliente
 -------
